@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm L3gend</h1>
 <h3 align="center">I'm a Developer, always looking for new challenges to improve and write clean, efficient and maintainable code. I love to learn and grow continuously, taking on interesting projects and collaborating with other developers.</h3>
 
-- 🔭 I’m currently working on [L3gend's Dev](https://discord.gg/vmwaF8XY8D)
-
-- 🔭 I’m currently working on [Cubly](https://ds.cubly.eu/)
-
 - 👨‍💻 All of my projects are available at [https://l3gend.xyz](https://l3gend.xyz)
 
 - 📫 How to reach me **mail.l3gend@gmail.com**
